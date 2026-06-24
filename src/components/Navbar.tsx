@@ -68,7 +68,7 @@ export function Navbar() {
 
   return (
     <header className='sticky top-0 z-50 w-full border-b border-border/20 bg-background/80 backdrop-blur-md'>
-      <div className='container mx-auto px-6 md:px-20 max-w-7xl h-28 flex items-center justify-between'>
+      <div className='container mx-auto px-6 md:px-20 max-w-7xl h-22 md:h-28 flex items-center justify-between'>
         {/* Left: Logo and Name */}
         <a
           href='#'
@@ -78,7 +78,7 @@ export function Navbar() {
           }}
           className='flex items-center gap-3 group'
         >
-          <div className='relative w-25 h-25'>
+          <div className='relative w-15 h-15 md:w-20 md:h-20'>
             <Image
               src='/assets/logo/logo-cesar-naim.jpeg'
               alt='César Naim Logo'
