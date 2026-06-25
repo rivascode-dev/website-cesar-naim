@@ -102,7 +102,7 @@ export function TestimonialsSection() {
                       VIDEO TESTIMONIO
                     </span>
                     <h4 className='text-on-surface font-semibold text-sm md:text-base'>
-                      Carla de la Vega &mdash; Testimonio de Mentoría 1 a 1
+                      Karla de la Vega &mdash; Testimonio de Mentoría 1 a 1
                     </h4>
                   </div>
 

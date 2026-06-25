@@ -90,8 +90,8 @@ export function ContactSection() {
     {
       icon: YoutubeIcon,
       label: 'YouTube',
-      value: '@yosoycesarcoacj',
-      href: 'https://youtube.com/@yosoycesarcoacj',
+      value: '@yosoycesarcoach',
+      href: 'https://youtube.com/@yosoycesarcoach',
     },
   ];
 
@@ -120,7 +120,9 @@ export function ContactSection() {
               las plazas mensuales son estrictamente limitadas.
             </p>
             <p className='font-hanken text-base text-on-surface-variant font-light leading-relaxed max-w-md'>
-              Ponte en contacto conmigo directamente a través de cualquiera de mis canales oficiales para evaluar tu caso y coordinar una sesión de valoración.
+              Ponte en contacto conmigo directamente a través de cualquiera de
+              mis canales oficiales para evaluar tu caso y coordinar una sesión
+              de valoración.
             </p>
           </div>
 
@@ -162,4 +164,3 @@ export function ContactSection() {
     </section>
   );
 }
-
