@@ -24,7 +24,8 @@ export function HeroSection({ onCtaClick }: HeroSectionProps) {
               MÉTODO DE REPROGRAMACIÓN MENTAL
             </span>
             <h1 className='font-playfair text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold leading-[1.1] text-on-surface mb-8 tracking-tight'>
-              IMAGINA TU VIDA SIN ANSIEDAD, SIN MIEDO AL RECHAZO, SIN DUDAR DE TI.
+              IMAGINA TU VIDA SIN ANSIEDAD, SIN MIEDO AL RECHAZO, SIN DUDAR DE
+              TI.
             </h1>
 
             <p className='font-hanken text-lg md:text-2xl font-light text-on-surface-variant/90 mb-12 max-w-2xl border-l-2 border-gold/40 pl-6 py-2'>
